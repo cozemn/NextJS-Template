@@ -2,3 +2,5 @@
 Study Template
 
 ## Add Head
+
+## Add Body
