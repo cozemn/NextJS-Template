@@ -6,3 +6,5 @@ Study Template
 ## Add Body
 
 ## Add Tail
+
+## Config style
