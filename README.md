@@ -12,3 +12,5 @@ Study Template
 ## Add end
 
 ## New Framework
+
+## What's new?
