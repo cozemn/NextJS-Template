@@ -14,3 +14,5 @@ Study Template
 ## New Framework
 
 ## What's new?
+
+## What's next?
